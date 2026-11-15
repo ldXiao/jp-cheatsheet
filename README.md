@@ -1,4 +1,6 @@
-# Interactive Japanese Verb & Adjective Chart
+# jp-cheatsheet — Interactive Japanese Verb & Adjective Chart
+
+**Live site:** https://<your-username>.github.io/jp-cheatsheet/ (deployed by GitHub Pages on every push to `main`)
 
 A single-file web app (`index.html`) that redraws Aeron Buchanan's one-page Japanese
 Verb Chart and makes it interactive:
